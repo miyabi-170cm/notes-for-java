@@ -9,6 +9,6 @@
 网页
 
 ## 目录
-- [day01](day/day01/leetcode1.md) 数组/哈希表
+- [day01](day/day01/leetcode1.md) 哈希
 - [02-linkedlist.md](02-linkedlist.md) 链表
 - ...
