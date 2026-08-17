@@ -9,4 +9,5 @@
 [力扣热题100](https://leetcode.cn/studyplan/top-100-liked/)
 ## 目录
 - [day01](day/day01/leetcode1.md) 哈希
+- [day02]()
 - ...
